@@ -11,9 +11,9 @@ export default function App() {
     <Text style={styles.nomeApp}>Multiplicador de Números</Text>
 
     {/*Tive uma dificuldade para usar o keyboardtype, ficava dando erro. Tentei usar um Styled Input, mas ainda não peguei a sintaxe. Meu colega Helio me ajudou me mostrando como usar regex.*/}
-
-    <TextInput style={styles.inputs} placeholderTextColor="#555"  placeholder='Digite um número:' keyboardType='numeric' value={numeroUm} onChangeText={texto=>setnumeroUm(texto.replace(/[^0-9]/g, ''))}/>
-    <TextInput style={styles.inputs} placeholderTextColor="#555" placeholder='Digite o outro número:' keyboardType='numeric' value={numeroDois} onChangeText={texto=>setnumeroDois(texto.replace(/[^0-9]/g, ''))}/>
+    {/* Agora com o regex correto, pra poder fazer com decimais, também ;) */}
+    <TextInput style={styles.inputs} placeholderTextColor="#555"  placeholder='Digite um número:' keyboardType='number-pad' value={numeroUm} onChangeText={texto=>setnumeroUm(texto.replace(/[^0-9-,-.]/g, ''))}/>
+    <TextInput style={styles.inputs} placeholderTextColor="#555" placeholder='Digite o outro número:' keyboardType='number-pad' value={numeroDois} onChangeText={texto=>setnumeroDois(texto.replace(/[^0-9-,-.]/g, ''))}/>
     
     {/*Fazendo na ordem ao contrário pra dar uma originalidade, como a ordem dos fatores não altera o produto, nesse caso...*/}
 
