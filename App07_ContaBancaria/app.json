@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "App07_ContaBancaria",
+    "slug": "App07_ContaBancaria",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
