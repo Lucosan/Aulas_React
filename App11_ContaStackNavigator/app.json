@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "App11_ContaStackNavigator",
+    "slug": "App11_ContaStackNavigator",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
