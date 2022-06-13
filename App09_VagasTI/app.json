@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "App09_VagasTI",
+    "slug": "App09_VagasTI",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
