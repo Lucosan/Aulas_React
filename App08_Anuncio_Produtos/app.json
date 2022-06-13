@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "App08_Anuncio_Produtos",
+    "slug": "App08_Anuncio_Produtos",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
