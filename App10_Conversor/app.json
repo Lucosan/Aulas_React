@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "App10_Conversor",
+    "slug": "App10_Conversor",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
