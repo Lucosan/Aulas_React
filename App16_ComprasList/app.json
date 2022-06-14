@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "App16_ComprasList",
+    "slug": "App16_ComprasList",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
