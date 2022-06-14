@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "App14_Frases",
+    "slug": "App14_Frases",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
