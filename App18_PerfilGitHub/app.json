@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "App18_PerfilGitHub",
+    "slug": "App18_PerfilGitHub",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
