@@ -44,7 +44,7 @@ export default function Pessoal() {
         style={{
           paddingBottom: 10,
           paddingTop: 30,
-          backgroundColor: "rgba(0, 122, 255, 0.12)",
+          backgroundColor: "#0ef",
         }}
         onPress={() => navigation.toggleDrawer()}
       >

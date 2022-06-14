@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "App13_PerfilTab",
+    "slug": "App13_PerfilTab",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
